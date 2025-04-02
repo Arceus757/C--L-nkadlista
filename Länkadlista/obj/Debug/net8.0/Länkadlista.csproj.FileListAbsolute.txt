@@ -1,0 +1,14 @@
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.exe
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.deps.json
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.runtimeconfig.json
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.dll
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.pdb
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.AssemblyInfoInputs.cache
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.AssemblyInfo.cs
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.csproj.CoreCompileInputs.cache
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.dll
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\refint\Länkadlista.dll
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.pdb
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.genruntimeconfig.cache
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\ref\Länkadlista.dll
