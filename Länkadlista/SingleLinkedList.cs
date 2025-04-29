@@ -77,6 +77,52 @@ class SingleLinkedList<T>
         temp.Next = temp.Next.Next;
     }
 
+    // Bubble Sort to sort the linked list by rearranging the Next pointers
+    public void bubbleSort(IComparer<T> comparer)
+    {
+        if (head == null || head.Next == null)
+        {
+            return; // List is empty or has only one element
+        }
+
+        bool swapped;
+        do
+        {
+            swapped = false;
+            Node<T> current = head;
+            Node<T> prev = null;
+
+            while (current != null && current.Next != null)
+            {
+                Node<T> next = current.Next;
+
+                // Compare current and next node data
+                if (comparer.Compare(current.Data, next.Data) > 0)
+                {
+                    // Swap nodes by adjusting pointers
+                    if (prev == null)
+                    {
+                        // Swapping the first two nodes
+                        head = next;
+                    }
+                    else
+                    {
+                        prev.Next = next;
+                    }
+
+                    current.Next = next.Next;
+                    next.Next = current;
+
+                    swapped = true;
+                }
+
+                // Move to the next pair
+                prev = swapped ? next : current;
+                current = current.Next;
+            }
+        } while (swapped);
+    }
+
     // Print the list
     public void printList()
     {

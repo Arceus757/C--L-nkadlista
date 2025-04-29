@@ -12,3 +12,19 @@ c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlist
 c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.pdb
 c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.genruntimeconfig.cache
 c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\ref\Länkadlista.dll
+c:\Users\dmytro.malanchuk\Documents\C# Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.sourcelink.json
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.exe
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.deps.json
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.runtimeconfig.json
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.dll
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\bin\Debug\net8.0\Länkadlista.pdb
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.AssemblyInfoInputs.cache
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.AssemblyInfo.cs
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.csproj.CoreCompileInputs.cache
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.sourcelink.json
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.dll
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\refint\Länkadlista.dll
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.pdb
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\Länkadlista.genruntimeconfig.cache
+C:\Users\dmytro.malanchuk\Documents\C#-Programmering\C# Länkadlista\Länkadlista\obj\Debug\net8.0\ref\Länkadlista.dll

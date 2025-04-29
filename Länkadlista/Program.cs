@@ -5,12 +5,17 @@
         SingleLinkedList<int> myList = new SingleLinkedList<int>();
 
         myList.addFirst(5);
-        myList.addFirst(4);
         myList.addFirst(3);
-        myList.addFirst(2);
+        myList.addFirst(4);
         myList.addFirst(1);
+        myList.addFirst(2);
 
         Console.Write("Original list: ");
+        myList.printList();
+
+        myList.bubbleSort(Comparer<int>.Default);
+
+        Console.Write("Sorted list: ");
         myList.printList();
 
         myList.removeNode(2); // Remove node at position 2

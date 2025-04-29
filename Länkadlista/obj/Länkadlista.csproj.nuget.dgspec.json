@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dmytro.malanchuk\\Documents\\C# Programmering\\C# Länkadlista\\Länkadlista\\Länkadlista.csproj": {}
+    "C:\\Users\\dmytro.malanchuk\\Documents\\C#-Programmering\\C# Länkadlista\\Länkadlista\\Länkadlista.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dmytro.malanchuk\\Documents\\C# Programmering\\C# Länkadlista\\Länkadlista\\Länkadlista.csproj": {
+    "C:\\Users\\dmytro.malanchuk\\Documents\\C#-Programmering\\C# Länkadlista\\Länkadlista\\Länkadlista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dmytro.malanchuk\\Documents\\C# Programmering\\C# Länkadlista\\Länkadlista\\Länkadlista.csproj",
+        "projectUniqueName": "C:\\Users\\dmytro.malanchuk\\Documents\\C#-Programmering\\C# Länkadlista\\Länkadlista\\Länkadlista.csproj",
         "projectName": "Länkadlista",
-        "projectPath": "c:\\Users\\dmytro.malanchuk\\Documents\\C# Programmering\\C# Länkadlista\\Länkadlista\\Länkadlista.csproj",
+        "projectPath": "C:\\Users\\dmytro.malanchuk\\Documents\\C#-Programmering\\C# Länkadlista\\Länkadlista\\Länkadlista.csproj",
         "packagesPath": "C:\\Users\\dmytro.malanchuk\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dmytro.malanchuk\\Documents\\C# Programmering\\C# Länkadlista\\Länkadlista\\obj\\",
+        "outputPath": "C:\\Users\\dmytro.malanchuk\\Documents\\C#-Programmering\\C# Länkadlista\\Länkadlista\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
