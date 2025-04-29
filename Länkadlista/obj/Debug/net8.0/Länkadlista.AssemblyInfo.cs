@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Länkadlista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+977c5530604739feab1ce715f31094f2f2a5bdf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d57a3332555c21a1071a5848d60f4770f0d51ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Länkadlista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Länkadlista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

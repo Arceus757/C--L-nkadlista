@@ -10,13 +10,13 @@ class SingleLinkedList<T>
         head = null;
     }
 
-    // Add a node at the beginning
+    // Lägger till en nod i början av listan
     public void addFirst(T data)
     {
         head = new Node<T>(data, head);
     }
 
-    // Add a node at the end
+    // Lägger till en nod i slutet av listan
     public void addNodeLast(T data)
     {
         Node<T> newNode = new Node<T>(data);
@@ -34,22 +34,22 @@ class SingleLinkedList<T>
         temp.Next = newNode;
     }
 
-    // Remove a node at a specific position
+    // Tar bort en nod på en specifik position
     public void removeNode(int position)
     {
         if (head == null)
         {
-            Console.WriteLine("List is empty.");
+            Console.WriteLine("Listan är tom.");
             return;
         }
 
         if (position < 0)
         {
-            Console.WriteLine("Invalid position.");
+            Console.WriteLine("Ogiltig position.");
             return;
         }
 
-        // Remove first node
+        // Tar bort den första noden
         if (position == 0)
         {
             head = head.Next;
@@ -59,30 +59,30 @@ class SingleLinkedList<T>
         Node<T> temp = head;
         int count = 0;
 
-        // Traverse to the node before the target
+        // Går till noden innan den som ska tas bort
         while (temp != null && count < position - 1)
         {
             temp = temp.Next;
             count++;
         }
 
-        // If position is out of bounds
+        // Om positionen är utanför listans gränser
         if (temp == null || temp.Next == null)
         {
-            Console.WriteLine("Position out of bounds.");
+            Console.WriteLine("Positionen är utanför listans gränser.");
             return;
         }
 
-        // Remove the node by skipping it
+        // Hoppar över noden som ska tas bort
         temp.Next = temp.Next.Next;
     }
 
-    // Bubble Sort to sort the linked list by rearranging the Next pointers
+    // Sorterar listan med Bubble Sort genom att flytta pekarna
     public void bubbleSort(IComparer<T> comparer)
     {
         if (head == null || head.Next == null)
         {
-            return; // List is empty or has only one element
+            return; // Listan är tom eller har bara en nod
         }
 
         bool swapped;
@@ -96,13 +96,13 @@ class SingleLinkedList<T>
             {
                 Node<T> next = current.Next;
 
-                // Compare current and next node data
+                // Jämför data i den aktuella noden och nästa nod
                 if (comparer.Compare(current.Data, next.Data) > 0)
                 {
-                    // Swap nodes by adjusting pointers
+                    // Byter plats på noderna genom att justera pekarna
                     if (prev == null)
                     {
-                        // Swapping the first two nodes
+                        // Byter plats på de två första noderna
                         head = next;
                     }
                     else
@@ -116,14 +116,14 @@ class SingleLinkedList<T>
                     swapped = true;
                 }
 
-                // Move to the next pair
+                // Flyttar till nästa par
                 prev = swapped ? next : current;
                 current = current.Next;
             }
         } while (swapped);
     }
 
-    // Print the list
+    // Skriver ut listan
     public void printList()
     {
         Node<T> temp = head;
